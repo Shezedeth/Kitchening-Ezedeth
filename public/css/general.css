@@ -1,0 +1,27 @@
+:root {
+    --colorRojo: #b81e14;
+    --colorGris: #92908b;
+    --colorGrisOscuro : #444444;
+}
+
+* {
+    margin: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
+
+body {
+    background-image: url('/img/bg-body.png');
+    font-family: 'Roboto', sans-serif;
+}
